@@ -15,7 +15,7 @@ import ComponentForPostRequest from "./pages/post/post.components";
 import Data from "./pages/looping/looping";
 import About from "./pages/about/about.component";
 const App = ({ getData, DataState = [], loading, postData, postRequest }) => {
-  // new line
+  // new line //new
   return (
     <>
       <ComponentNavbar />
